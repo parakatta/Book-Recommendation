@@ -1,2 +1,2 @@
-# javascript-projects
-My journey of learning JavaScript (ongoing)
+# Book Recommendation
+Book Recommendation Engine based on Collaborative Filtering.
